@@ -1,4 +1,18 @@
 {
   "version": 1,
-  "entries": {}
+  "entries": {
+    "dsa": {
+      "2026-09-19": {
+        "values": {
+          "problemsSolved": 1,
+          "easy": 0,
+          "medium": 0,
+          "hard": 1,
+          "studyHours": 1
+        },
+        "updatedAt": "2026-09-19T18:13:48.932Z",
+        "note": "124. Binary Tree Maximum Path Sum"
+      }
+    }
+  }
 }
