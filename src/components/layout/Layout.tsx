@@ -34,7 +34,9 @@ export function Layout() {
   const openEntry = useEntrySheet()
   const { pathname } = useLocation()
 
-  useEffect(() => window.scrollTo(0, 0), [pathname])
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [pathname])
 
   return (
     <div className="min-h-full lg:grid lg:grid-cols-[240px_1fr]">
