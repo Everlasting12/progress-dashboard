@@ -8,15 +8,92 @@
       "icon": "🧠",
       "color": "#2f9e76",
       "metrics": [
-        { "id": "problemsSolved", "name": "Problems solved", "type": "count", "unit": "problems", "step": 1, "includeInTotal": true },
-        { "id": "easy", "name": "Easy", "type": "count", "unit": "", "step": 1, "includeInTotal": false },
-        { "id": "medium", "name": "Medium", "type": "count", "unit": "", "step": 1, "includeInTotal": false },
-        { "id": "hard", "name": "Hard", "type": "count", "unit": "", "step": 1, "includeInTotal": false },
-        { "id": "studyHours", "name": "Study hours", "type": "duration", "unit": "h", "step": 0.5, "includeInTotal": true }
+        {
+          "id": "problemsSolved",
+          "name": "Problems solved",
+          "type": "count",
+          "unit": "problems",
+          "step": 1,
+          "includeInTotal": true
+        },
+        {
+          "id": "easy",
+          "name": "Easy",
+          "type": "count",
+          "unit": "",
+          "step": 1,
+          "includeInTotal": false
+        },
+        {
+          "id": "medium",
+          "name": "Medium",
+          "type": "count",
+          "unit": "",
+          "step": 1,
+          "includeInTotal": false
+        },
+        {
+          "id": "hard",
+          "name": "Hard",
+          "type": "count",
+          "unit": "",
+          "step": 1,
+          "includeInTotal": false
+        },
+        {
+          "id": "studyHours",
+          "name": "Study hours",
+          "type": "duration",
+          "unit": "h",
+          "step": 0.5,
+          "includeInTotal": true
+        }
       ],
-      "threshold": { "metricId": "problemsSolved", "min": 1 },
+      "threshold": {
+        "metricId": "problemsSolved",
+        "min": 1
+      },
       "createdAt": "1970-01-01T00:00:00.000Z",
       "updatedAt": "1970-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "fitness",
+      "name": "Fitness",
+      "description": "Workouts and movement",
+      "icon": "🏋️",
+      "color": "#2f7fd1",
+      "metrics": [
+        {
+          "id": "workoutMinutes",
+          "name": "Workout minutes",
+          "type": "decimal",
+          "unit": "min",
+          "includeInTotal": true,
+          "step": 90
+        },
+        {
+          "id": "steps",
+          "name": "Steps",
+          "type": "count",
+          "unit": "steps",
+          "includeInTotal": true,
+          "step": 10000
+        },
+        {
+          "id": "distance",
+          "name": "Distance",
+          "type": "decimal",
+          "unit": "km",
+          "includeInTotal": true,
+          "step": 8
+        }
+      ],
+      "threshold": {
+        "metricId": "workoutMinutes",
+        "min": 20
+      },
+      "createdAt": "2026-09-19T18:10:31.268Z",
+      "updatedAt": "2026-09-19T18:10:31.268Z"
     }
   ]
 }
