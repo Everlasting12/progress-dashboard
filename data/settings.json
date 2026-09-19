@@ -1,12 +1,12 @@
 {
   "version": 1,
   "settings": {
-    "theme": "system",
+    "theme": "dark",
     "dateFormat": "MMM d, yyyy",
     "weekStart": 0,
     "timezone": "Asia/Kolkata",
     "defaultDashboardId": "dsa",
     "streakGraceDays": 0,
-    "updatedAt": "2026-09-19T18:06:48.929Z"
+    "updatedAt": "2026-09-19T18:06:50.494Z"
   }
 }
