@@ -5,8 +5,8 @@
     "dateFormat": "MMM d, yyyy",
     "weekStart": 0,
     "timezone": "Asia/Kolkata",
-    "defaultDashboardId": "fitness",
+    "defaultDashboardId": "dsa",
     "streakGraceDays": 0,
-    "updatedAt": "2026-09-19T18:25:58.808Z"
+    "updatedAt": "2026-09-19T18:26:00.648Z"
   }
 }
