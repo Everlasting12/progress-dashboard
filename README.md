@@ -1,5 +1,11 @@
 # Progress — a personal coding & progress dashboard
 
+## 🚀 Progress Dashboard
+
+<a href="https://everlasting12.github.io/progress-dashboard/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Open%20Progress%20Dashboard-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Open Progress Dashboard" />
+</a>
+
 A single-user dashboard for tracking daily progress in anything: DSA, LeetCode, Java, fitness, reading, side projects. Each tracker gets its own metrics, GitHub-style contribution heatmap, streaks and analytics.
 
 There is no backend. The app is a static React site hosted free on **GitHub Pages**, and your data lives as **JSON files in a GitHub repository**, read and written through the GitHub REST API with a personal access token that never leaves your browser.
@@ -10,15 +16,15 @@ There is no backend. The app is a static React site hosted free on **GitHub Page
 
 ## 1. Project overview
 
-| Piece | Choice |
-|---|---|
-| UI | React 19, TypeScript (strict), Tailwind CSS 4 |
-| Build | Vite |
-| Charts | Recharts |
-| Routing | `HashRouter` (`/#/analytics`) so GitHub Pages needs no 404 redirect trick |
+| Piece   | Choice                                                                              |
+| ------- | ----------------------------------------------------------------------------------- |
+| UI      | React 19, TypeScript (strict), Tailwind CSS 4                                       |
+| Build   | Vite                                                                                |
+| Charts  | Recharts                                                                            |
+| Routing | `HashRouter` (`/#/analytics`) so GitHub Pages needs no 404 redirect trick           |
 | Storage | `data/dashboards.json`, `data/activity.json`, `data/settings.json` in a GitHub repo |
-| Sync | GitHub REST "contents" API, with an offline queue in `localStorage` |
-| Hosting | GitHub Pages via GitHub Actions |
+| Sync    | GitHub REST "contents" API, with an offline queue in `localStorage`                 |
+| Hosting | GitHub Pages via GitHub Actions                                                     |
 
 ```
 src/
@@ -129,10 +135,10 @@ push to main → GitHub Actions → npm ci && npm run build → upload dist/ →
 
 ## 7. Required repository permissions
 
-| Permission | Level | Why |
-|---|---|---|
-| Contents | Read and write | Read and commit the three JSON files |
-| Metadata | Read-only (automatic) | Look up the repository and branch |
+| Permission | Level                 | Why                                  |
+| ---------- | --------------------- | ------------------------------------ |
+| Contents   | Read and write        | Read and commit the three JSON files |
+| Metadata   | Read-only (automatic) | Look up the repository and branch    |
 
 Nothing else is needed. The token cannot touch other repositories, Actions, settings or your account.
 
@@ -153,11 +159,26 @@ Three files live in the data folder (default `data/`, configurable):
       "icon": "🧠",
       "color": "#2f9e76",
       "metrics": [
-        { "id": "problemsSolved", "name": "Problems solved", "type": "count", "unit": "problems", "step": 1, "includeInTotal": true },
-        { "id": "studyHours", "name": "Study hours", "type": "duration", "unit": "h", "step": 0.5, "includeInTotal": true }
+        {
+          "id": "problemsSolved",
+          "name": "Problems solved",
+          "type": "count",
+          "unit": "problems",
+          "step": 1,
+          "includeInTotal": true
+        },
+        {
+          "id": "studyHours",
+          "name": "Study hours",
+          "type": "duration",
+          "unit": "h",
+          "step": 0.5,
+          "includeInTotal": true
+        }
       ],
       "threshold": { "metricId": "problemsSolved", "min": 1 },
-      "createdAt": "…", "updatedAt": "…"
+      "createdAt": "…",
+      "updatedAt": "…"
     }
   ]
 }
@@ -171,7 +192,13 @@ Three files live in the data folder (default `data/`, configurable):
   "entries": {
     "dsa": {
       "2026-09-19": {
-        "values": { "problemsSolved": 3, "easy": 1, "medium": 2, "hard": 0, "studyHours": 2 },
+        "values": {
+          "problemsSolved": 3,
+          "easy": 1,
+          "medium": 2,
+          "hard": 0,
+          "studyHours": 2
+        },
         "note": "Two-pointer day",
         "updatedAt": "2026-09-19T14:03:11.201Z"
       }
@@ -190,7 +217,7 @@ In the browser, `localStorage` also holds `pd:cache` (last known copy of the thr
 
 ## 9. How synchronization works
 
-Every edit (save entry, delete entry, change a dashboard, change a setting) is recorded as an **operation** and appended to the pending queue in `localStorage` *before* anything is sent to GitHub. The UI shows your data as "cached files + pending operations", so edits appear instantly and survive reloads, crashes and lost connections.
+Every edit (save entry, delete entry, change a dashboard, change a setting) is recorded as an **operation** and appended to the pending queue in `localStorage` _before_ anything is sent to GitHub. The UI shows your data as "cached files + pending operations", so edits appear instantly and survive reloads, crashes and lost connections.
 
 Syncing one file:
 
@@ -220,24 +247,24 @@ Implemented in `src/lib/streaks.ts`.
 
 **Current streak.** Length of the run that ends today. If today is inactive, the current streak is 0.
 
-**Grace period** (Settings → Dashboards and streaks, default 0). With a grace of *G* days, a run that ended up to *G* days ago still counts as current. With `G = 1` you can open the app in the morning and still see yesterday's streak, and it stays alive until the end of today. Grace days don't add to the length and never join two separate runs.
+**Grace period** (Settings → Dashboards and streaks, default 0). With a grace of _G_ days, a run that ended up to _G_ days ago still counts as current. With `G = 1` you can open the app in the morning and still see yesterday's streak, and it stays alive until the end of today. Grace days don't add to the length and never join two separate runs.
 
 **Longest streak.** The longest run in the full history, including the current one.
 
-**Shortest streak.** The shortest *completed* run. The ongoing current run is excluded because it can still grow. Shown as "–" until at least one streak has ended.
+**Shortest streak.** The shortest _completed_ run. The ongoing current run is excluded because it can still grow. Shown as "–" until at least one streak has ended.
 
 Examples:
 
-| History (oldest → newest) | Current | Longest | Shortest |
-|---|---|---|---|
-| Sep 15–19 active, today = Sep 19 | 5 | 5 | – |
-| Same, but today = Sep 20 and nothing logged | 0 | 5 | 5 |
-| 10 active, 2 off, 25 active up to today | 25 | 25 | 10 |
-| 3 active, off, 10 active, off, 5 active, off | 0 | 10 | 3 |
+| History (oldest → newest)                    | Current | Longest | Shortest |
+| -------------------------------------------- | ------- | ------- | -------- |
+| Sep 15–19 active, today = Sep 19             | 5       | 5       | –        |
+| Same, but today = Sep 20 and nothing logged  | 0       | 5       | 5        |
+| 10 active, 2 off, 25 active up to today      | 25      | 25      | 10       |
+| 3 active, off, 10 active, off, 5 active, off | 0       | 10      | 3        |
 
-The home page's **overall streak** treats a day as active if *any* dashboard was active that day.
+The home page's **overall streak** treats a day as active if _any_ dashboard was active that day.
 
-**Total activity** for a day is the sum of the metrics marked "in total". It drives heatmap intensity and the charts. For DSA, *Problems solved* and *Study hours* count toward the total, while *Easy / Medium / Hard* are breakdowns and are left out so nothing is counted twice.
+**Total activity** for a day is the sum of the metrics marked "in total". It drives heatmap intensity and the charts. For DSA, _Problems solved_ and _Study hours_ count toward the total, while _Easy / Medium / Hard_ are breakdowns and are left out so nothing is counted twice.
 
 **Heatmap intensity.** Like GitHub, the four non-empty colour levels are quartiles of the non-zero days currently shown, so the scale adapts to your own numbers.
 
@@ -259,13 +286,13 @@ Other actions on the Dashboards page: **Edit**, **Duplicate** (copies the config
 
 Open a dashboard's **Edit** dialog → **Add metric**.
 
-| Field | Meaning |
-|---|---|
-| Name | Shown in the entry form, tooltips and charts |
-| Type | Whole number, Decimal number, Hours, or Yes / no |
-| Unit | Optional label such as `problems`, `km`, `pages` |
-| Step | How much +/- changes the value |
-| In total | Whether it adds to the day's total activity |
+| Field    | Meaning                                          |
+| -------- | ------------------------------------------------ |
+| Name     | Shown in the entry form, tooltips and charts     |
+| Type     | Whole number, Decimal number, Hours, or Yes / no |
+| Unit     | Optional label such as `problems`, `km`, `pages` |
+| Step     | How much +/- changes the value                   |
+| In total | Whether it adds to the day's total activity      |
 
 A metric's internal id is created from its name once and never changes, so renaming a metric keeps its history. Removing a metric hides it, but old values stay in `activity.json`; add a metric with the same name back and they reappear.
 
@@ -282,16 +309,16 @@ For developers, the model lives in `src/types/index.ts`. To add a new metric **t
 
 ## 14. Troubleshooting
 
-| Symptom | Fix |
-|---|---|
-| **"GitHub rejected the token"** (401) | Token is expired, revoked or mistyped. Create a new one and paste it via Settings → Replace. |
-| **"The token can't write…"** (403) | Give the token **Contents: Read and write** on this exact repository. |
-| **"Couldn't find owner/repo"** (404) | Check owner, repo and branch spelling, and that the token's repository access includes that repo. |
-| **"Rate limit reached"** | Authenticated calls allow 5,000 per hour. Wait a few minutes, then Retry. |
-| **"…is not valid JSON"** | A data file was edited by hand and broken. Fix it on GitHub or restore it from git history. |
-| Status stuck on **Pending sync** | Open Settings → Sync now. The error, if any, is shown there. |
-| Site shows a blank page after deploy | Confirm Pages **Source** is "GitHub Actions" and the workflow succeeded. Hard-refresh. |
-| Every save triggers a deploy | Make sure the `paths-ignore: data/**` block is in `deploy.yml`. |
-| Data differs between devices | Both devices must point at the same owner/repo/branch/data folder. Tap Sync now on each. |
-| Days are off by one | Check Settings → Timezone. It defaults to `Asia/Kolkata`. |
-| Need to start over on one device | Settings → Backup → Clear data on this device. Anything already on GitHub is kept. |
+| Symptom                               | Fix                                                                                               |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **"GitHub rejected the token"** (401) | Token is expired, revoked or mistyped. Create a new one and paste it via Settings → Replace.      |
+| **"The token can't write…"** (403)    | Give the token **Contents: Read and write** on this exact repository.                             |
+| **"Couldn't find owner/repo"** (404)  | Check owner, repo and branch spelling, and that the token's repository access includes that repo. |
+| **"Rate limit reached"**              | Authenticated calls allow 5,000 per hour. Wait a few minutes, then Retry.                         |
+| **"…is not valid JSON"**              | A data file was edited by hand and broken. Fix it on GitHub or restore it from git history.       |
+| Status stuck on **Pending sync**      | Open Settings → Sync now. The error, if any, is shown there.                                      |
+| Site shows a blank page after deploy  | Confirm Pages **Source** is "GitHub Actions" and the workflow succeeded. Hard-refresh.            |
+| Every save triggers a deploy          | Make sure the `paths-ignore: data/**` block is in `deploy.yml`.                                   |
+| Data differs between devices          | Both devices must point at the same owner/repo/branch/data folder. Tap Sync now on each.          |
+| Days are off by one                   | Check Settings → Timezone. It defaults to `Asia/Kolkata`.                                         |
+| Need to start over on one device      | Settings → Backup → Clear data on this device. Anything already on GitHub is kept.                |
