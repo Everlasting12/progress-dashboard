@@ -1,0 +1,104 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme inline {
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --color-canvas: var(--canvas);
+  --color-surface: var(--surface);
+  --color-raised: var(--raised);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-cell: var(--cell);
+  --color-ok: var(--ok);
+  --color-warn: var(--warn);
+  --color-bad: var(--bad);
+}
+
+:root {
+  --canvas: #f5f6f8;
+  --surface: #ffffff;
+  --raised: #eef0f4;
+  --line: #e0e3e9;
+  --ink: #161a23;
+  --muted: #646c7c;
+  --faint: #9aa1ae;
+  --cell: #e5e8ed;
+  --ok: #238a63;
+  --warn: #b7791f;
+  --bad: #c2413a;
+  color-scheme: light;
+}
+
+.dark {
+  --canvas: #11141b;
+  --surface: #171b24;
+  --raised: #1f2430;
+  --line: #272d3a;
+  --ink: #e6e8ee;
+  --muted: #959cab;
+  --faint: #5d6474;
+  --cell: #262c39;
+  --ok: #3fb68b;
+  --warn: #d9a441;
+  --bad: #e5655d;
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background: var(--canvas);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+
+:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--ink) 55%, transparent);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+.scroll-thin {
+  scrollbar-width: thin;
+}
+
+@keyframes sheet-in {
+  from { transform: translateY(16px); opacity: 0; }
+  to { transform: none; opacity: 1; }
+}
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes flicker {
+  0%, 100% { transform: scale(1) rotate(0); }
+  50% { transform: scale(1.08) rotate(-4deg); }
+}
+.animate-sheet { animation: sheet-in 180ms ease-out; }
+.animate-fade { animation: fade-in 150ms ease-out; }
+.animate-flicker { animation: flicker 2.4s ease-in-out infinite; transform-origin: 50% 80%; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Recharts focus outline noise */
+.recharts-wrapper *:focus { outline: none; }

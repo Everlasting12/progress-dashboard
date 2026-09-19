@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "dashboards": [
+    {
+      "id": "dsa",
+      "name": "DSA",
+      "description": "Daily data structures and algorithms practice",
+      "icon": "🧠",
+      "color": "#2f9e76",
+      "metrics": [
+        { "id": "problemsSolved", "name": "Problems solved", "type": "count", "unit": "problems", "step": 1, "includeInTotal": true },
+        { "id": "easy", "name": "Easy", "type": "count", "unit": "", "step": 1, "includeInTotal": false },
+        { "id": "medium", "name": "Medium", "type": "count", "unit": "", "step": 1, "includeInTotal": false },
+        { "id": "hard", "name": "Hard", "type": "count", "unit": "", "step": 1, "includeInTotal": false },
+        { "id": "studyHours", "name": "Study hours", "type": "duration", "unit": "h", "step": 0.5, "includeInTotal": true }
+      ],
+      "threshold": { "metricId": "problemsSolved", "min": 1 },
+      "createdAt": "1970-01-01T00:00:00.000Z",
+      "updatedAt": "1970-01-01T00:00:00.000Z"
+    }
+  ]
+}

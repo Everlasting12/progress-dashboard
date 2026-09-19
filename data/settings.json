@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "settings": {
+    "theme": "system",
+    "dateFormat": "MMM d, yyyy",
+    "weekStart": 0,
+    "timezone": "Asia/Kolkata",
+    "defaultDashboardId": "dsa",
+    "streakGraceDays": 0,
+    "updatedAt": "1970-01-01T00:00:00.000Z"
+  }
+}
