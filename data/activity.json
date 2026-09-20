@@ -10,8 +10,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#1. Two Sum (Easy, Java) [attempted, not solved; 2 wrong answers] - https://leetcode.com/problems/two-sum/"
+        "note": "#1. Two Sum (Easy, Java) [attempted, not solved; 2 wrong answers] - https://leetcode.com/problems/two-sum/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2021-10-12": {
         "values": {
@@ -21,8 +21,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#485. Max Consecutive Ones (Easy, Java) [attempted, not solved; 1 wrong answer] - https://leetcode.com/problems/max-consecutive-ones/"
+        "note": "#485. Max Consecutive Ones (Easy, Java) [attempted, not solved; 1 wrong answer] - https://leetcode.com/problems/max-consecutive-ones/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2024-01-13": {
         "values": {
@@ -32,8 +32,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#1. Two Sum (Easy, TypeScript) - https://leetcode.com/problems/two-sum/"
+        "note": "#1. Two Sum (Easy, TypeScript) - https://leetcode.com/problems/two-sum/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2024-06-01": {
         "values": {
@@ -43,8 +43,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#2667. Create Hello World Function (Easy, TypeScript) - https://leetcode.com/problems/create-hello-world-function/; #2620. Counter (Easy, TypeScript) - https://leetcode.com/problems/counter/; #2704. To Be Or Not To Be (Easy, TypeScript) - https://leetcode.com/problems/to-be-or-not-to-be/; #2665. Counter II (Easy, TypeScript) - https://leetcode.com/problems/counter-ii/; #2635. Apply Transform Over Each Element in Array (Easy, TypeScript) - https://leetcode.com/problems/apply-transform-over-each-element-in-array/"
+        "note": "#2667. Create Hello World Function (Easy, TypeScript) - https://leetcode.com/problems/create-hello-world-function/; #2620. Counter (Easy, TypeScript) - https://leetcode.com/problems/counter/; #2704. To Be Or Not To Be (Easy, TypeScript) - https://leetcode.com/problems/to-be-or-not-to-be/; #2665. Counter II (Easy, TypeScript) - https://leetcode.com/problems/counter-ii/; #2635. Apply Transform Over Each Element in Array (Easy, TypeScript) - https://leetcode.com/problems/apply-transform-over-each-element-in-array/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2024-07-14": {
         "values": {
@@ -54,8 +54,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#2634. Filter Elements from Array (Easy, TypeScript) - https://leetcode.com/problems/filter-elements-from-array/; #2626. Array Reduce Transformation (Easy, TypeScript) - https://leetcode.com/problems/array-reduce-transformation/; #2629. Function Composition (Easy, TypeScript) [1 runtime error before accepted] - https://leetcode.com/problems/function-composition/"
+        "note": "#2634. Filter Elements from Array (Easy, TypeScript) - https://leetcode.com/problems/filter-elements-from-array/; #2626. Array Reduce Transformation (Easy, TypeScript) - https://leetcode.com/problems/array-reduce-transformation/; #2629. Function Composition (Easy, TypeScript) [1 runtime error before accepted] - https://leetcode.com/problems/function-composition/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2024-12-10": {
         "values": {
@@ -65,8 +65,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#485. Max Consecutive Ones (Easy, JavaScript) - https://leetcode.com/problems/max-consecutive-ones/; #1295. Find Numbers with Even Number of Digits (Easy, JavaScript) - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/"
+        "note": "#485. Max Consecutive Ones (Easy, JavaScript) - https://leetcode.com/problems/max-consecutive-ones/; #1295. Find Numbers with Even Number of Digits (Easy, JavaScript) - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2024-12-11": {
         "values": {
@@ -76,8 +76,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#977. Squares of a Sorted Array (Easy, JavaScript) - https://leetcode.com/problems/squares-of-a-sorted-array/"
+        "note": "#977. Squares of a Sorted Array (Easy, JavaScript) - https://leetcode.com/problems/squares-of-a-sorted-array/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2025-04-08": {
         "values": {
@@ -87,8 +87,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#3. Longest Substring Without Repeating Characters (Medium, TypeScript) - https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+        "note": "#3. Longest Substring Without Repeating Characters (Medium, TypeScript) - https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2025-07-27": {
         "values": {
@@ -98,8 +98,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#26. Remove Duplicates from Sorted Array (Easy, TypeScript) - https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+        "note": "#26. Remove Duplicates from Sorted Array (Easy, TypeScript) - https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2025-11-05": {
         "values": {
@@ -109,8 +109,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#2703. Return Length of Arguments Passed (Easy, TypeScript) - https://leetcode.com/problems/return-length-of-arguments-passed/; #2666. Allow One Function Call (Easy, TypeScript) - https://leetcode.com/problems/allow-one-function-call/; #2623. Memoize (Medium, TypeScript) - https://leetcode.com/problems/memoize/"
+        "note": "#2703. Return Length of Arguments Passed (Easy, TypeScript) - https://leetcode.com/problems/return-length-of-arguments-passed/; #2666. Allow One Function Call (Easy, TypeScript) - https://leetcode.com/problems/allow-one-function-call/; #2623. Memoize (Medium, TypeScript) - https://leetcode.com/problems/memoize/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-03-22": {
         "values": {
@@ -120,8 +120,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#9. Palindrome Number (Easy, TypeScript) - https://leetcode.com/problems/palindrome-number/; #7. Reverse Integer (Medium, TypeScript) [3 runtime errors before accepted] - https://leetcode.com/problems/reverse-integer/; #27. Remove Element (Easy, TypeScript) - https://leetcode.com/problems/remove-element/; #344. Reverse String (Easy, TypeScript) - https://leetcode.com/problems/reverse-string/; #121. Best Time to Buy and Sell Stock (Easy, TypeScript) - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+        "note": "#9. Palindrome Number (Easy, TypeScript) - https://leetcode.com/problems/palindrome-number/; #7. Reverse Integer (Medium, TypeScript) [3 runtime errors before accepted] - https://leetcode.com/problems/reverse-integer/; #27. Remove Element (Easy, TypeScript) - https://leetcode.com/problems/remove-element/; #344. Reverse String (Easy, TypeScript) - https://leetcode.com/problems/reverse-string/; #121. Best Time to Buy and Sell Stock (Easy, TypeScript) - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-03-23": {
         "values": {
@@ -131,8 +131,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#88. Merge Sorted Array (Easy, TypeScript) - https://leetcode.com/problems/merge-sorted-array/; #283. Move Zeroes (Easy, TypeScript) - https://leetcode.com/problems/move-zeroes/; #485. Max Consecutive Ones (Easy, JavaScript) [revisited] - https://leetcode.com/problems/max-consecutive-ones/; #268. Missing Number (Easy, JavaScript) - https://leetcode.com/problems/missing-number/"
+        "note": "#88. Merge Sorted Array (Easy, TypeScript) - https://leetcode.com/problems/merge-sorted-array/; #283. Move Zeroes (Easy, TypeScript) - https://leetcode.com/problems/move-zeroes/; #485. Max Consecutive Ones (Easy, JavaScript) [revisited] - https://leetcode.com/problems/max-consecutive-ones/; #268. Missing Number (Easy, JavaScript) - https://leetcode.com/problems/missing-number/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-03-24": {
         "values": {
@@ -142,8 +142,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#136. Single Number (Easy, JavaScript) - https://leetcode.com/problems/single-number/"
+        "note": "#136. Single Number (Easy, JavaScript) - https://leetcode.com/problems/single-number/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-03-25": {
         "values": {
@@ -153,8 +153,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#231. Power of Two (Easy, JavaScript) [1 runtime error before accepted] - https://leetcode.com/problems/power-of-two/"
+        "note": "#231. Power of Two (Easy, JavaScript) [1 runtime error before accepted] - https://leetcode.com/problems/power-of-two/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-03-26": {
         "values": {
@@ -164,8 +164,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#509. Fibonacci Number (Easy, JavaScript) - https://leetcode.com/problems/fibonacci-number/; #704. Binary Search (Easy, JavaScript) - https://leetcode.com/problems/binary-search/"
+        "note": "#509. Fibonacci Number (Easy, JavaScript) - https://leetcode.com/problems/fibonacci-number/; #704. Binary Search (Easy, JavaScript) - https://leetcode.com/problems/binary-search/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-03-31": {
         "values": {
@@ -175,8 +175,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#912. Sort an Array (Medium, JavaScript) - https://leetcode.com/problems/sort-an-array/"
+        "note": "#912. Sort an Array (Medium, JavaScript) - https://leetcode.com/problems/sort-an-array/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-01": {
         "values": {
@@ -186,8 +186,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#912. Sort an Array (Medium, JavaScript) [revisited] - https://leetcode.com/problems/sort-an-array/"
+        "note": "#912. Sort an Array (Medium, JavaScript) [revisited] - https://leetcode.com/problems/sort-an-array/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-02": {
         "values": {
@@ -197,8 +197,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#707. Design Linked List (Medium, JavaScript) - https://leetcode.com/problems/design-linked-list/"
+        "note": "#707. Design Linked List (Medium, JavaScript) - https://leetcode.com/problems/design-linked-list/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-03": {
         "values": {
@@ -208,8 +208,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#876. Middle of the Linked List (Easy, JavaScript) - https://leetcode.com/problems/middle-of-the-linked-list/"
+        "note": "#876. Middle of the Linked List (Easy, JavaScript) - https://leetcode.com/problems/middle-of-the-linked-list/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-06": {
         "values": {
@@ -219,8 +219,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#206. Reverse Linked List (Easy, JavaScript) - https://leetcode.com/problems/reverse-linked-list/; #141. Linked List Cycle (Easy, JavaScript) - https://leetcode.com/problems/linked-list-cycle/"
+        "note": "#206. Reverse Linked List (Easy, JavaScript) - https://leetcode.com/problems/reverse-linked-list/; #141. Linked List Cycle (Easy, JavaScript) - https://leetcode.com/problems/linked-list-cycle/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-07": {
         "values": {
@@ -230,8 +230,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#141. Linked List Cycle (Easy, JavaScript) [1 runtime error, 1 wrong answer before accepted; revisited] - https://leetcode.com/problems/linked-list-cycle/"
+        "note": "#141. Linked List Cycle (Easy, JavaScript) [1 runtime error, 1 wrong answer before accepted; revisited] - https://leetcode.com/problems/linked-list-cycle/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-08": {
         "values": {
@@ -241,8 +241,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#234. Palindrome Linked List (Easy, JavaScript) [2 wrong answers, 2 runtime errors before accepted] - https://leetcode.com/problems/palindrome-linked-list/"
+        "note": "#234. Palindrome Linked List (Easy, JavaScript) [2 wrong answers, 2 runtime errors before accepted] - https://leetcode.com/problems/palindrome-linked-list/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-09": {
         "values": {
@@ -252,8 +252,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#234. Palindrome Linked List (Easy, JavaScript) [revisited] - https://leetcode.com/problems/palindrome-linked-list/; #160. Intersection of Two Linked Lists (Easy, JavaScript) - https://leetcode.com/problems/intersection-of-two-linked-lists/; #203. Remove Linked List Elements (Easy, JavaScript) - https://leetcode.com/problems/remove-linked-list-elements/"
+        "note": "#234. Palindrome Linked List (Easy, JavaScript) [revisited] - https://leetcode.com/problems/palindrome-linked-list/; #160. Intersection of Two Linked Lists (Easy, JavaScript) - https://leetcode.com/problems/intersection-of-two-linked-lists/; #203. Remove Linked List Elements (Easy, JavaScript) - https://leetcode.com/problems/remove-linked-list-elements/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-11": {
         "values": {
@@ -263,8 +263,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#19. Remove Nth Node From End of List (Medium, JavaScript) [1 wrong answer before accepted] - https://leetcode.com/problems/remove-nth-node-from-end-of-list/; #83. Remove Duplicates from Sorted List (Easy, JavaScript) - https://leetcode.com/problems/remove-duplicates-from-sorted-list/"
+        "note": "#19. Remove Nth Node From End of List (Medium, JavaScript) [1 wrong answer before accepted] - https://leetcode.com/problems/remove-nth-node-from-end-of-list/; #83. Remove Duplicates from Sorted List (Easy, JavaScript) - https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-12": {
         "values": {
@@ -274,8 +274,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#328. Odd Even Linked List (Medium, JavaScript) [1 runtime error before accepted] - https://leetcode.com/problems/odd-even-linked-list/"
+        "note": "#328. Odd Even Linked List (Medium, JavaScript) [1 runtime error before accepted] - https://leetcode.com/problems/odd-even-linked-list/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-13": {
         "values": {
@@ -285,8 +285,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#2. Add Two Numbers (Medium, JavaScript) - https://leetcode.com/problems/add-two-numbers/"
+        "note": "#2. Add Two Numbers (Medium, JavaScript) - https://leetcode.com/problems/add-two-numbers/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-14": {
         "values": {
@@ -296,8 +296,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#21. Merge Two Sorted Lists (Easy, JavaScript) - https://leetcode.com/problems/merge-two-sorted-lists/; #61. Rotate List (Medium, JavaScript) [1 time limit exceeded before accepted] - https://leetcode.com/problems/rotate-list/; #24. Swap Nodes in Pairs (Medium, JavaScript) - https://leetcode.com/problems/swap-nodes-in-pairs/"
+        "note": "#21. Merge Two Sorted Lists (Easy, JavaScript) - https://leetcode.com/problems/merge-two-sorted-lists/; #61. Rotate List (Medium, JavaScript) [1 time limit exceeded before accepted] - https://leetcode.com/problems/rotate-list/; #24. Swap Nodes in Pairs (Medium, JavaScript) - https://leetcode.com/problems/swap-nodes-in-pairs/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-16": {
         "values": {
@@ -307,8 +307,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#24. Swap Nodes in Pairs (Medium, JavaScript) [revisited] - https://leetcode.com/problems/swap-nodes-in-pairs/"
+        "note": "#24. Swap Nodes in Pairs (Medium, JavaScript) [revisited] - https://leetcode.com/problems/swap-nodes-in-pairs/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-17": {
         "values": {
@@ -318,8 +318,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#3761. Minimum Absolute Distance Between Mirror Pairs (Medium, JavaScript) - https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/; #58. Length of Last Word (Easy, JavaScript) - https://leetcode.com/problems/length-of-last-word/"
+        "note": "#3761. Minimum Absolute Distance Between Mirror Pairs (Medium, JavaScript) - https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/; #58. Length of Last Word (Easy, JavaScript) - https://leetcode.com/problems/length-of-last-word/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-18": {
         "values": {
@@ -329,8 +329,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#3761. Minimum Absolute Distance Between Mirror Pairs (Medium, JavaScript) [revisited] - https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/; #2942. Find Words Containing Character (Easy, JavaScript) - https://leetcode.com/problems/find-words-containing-character/"
+        "note": "#3761. Minimum Absolute Distance Between Mirror Pairs (Medium, JavaScript) [revisited] - https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/; #2942. Find Words Containing Character (Easy, JavaScript) - https://leetcode.com/problems/find-words-containing-character/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-19": {
         "values": {
@@ -340,8 +340,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#2942. Find Words Containing Character (Easy, JavaScript) [revisited] - https://leetcode.com/problems/find-words-containing-character/; #771. Jewels and Stones (Easy, JavaScript) - https://leetcode.com/problems/jewels-and-stones/; #3541. Find Most Frequent Vowel and Consonant (Easy, JavaScript) - https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/"
+        "note": "#2942. Find Words Containing Character (Easy, JavaScript) [revisited] - https://leetcode.com/problems/find-words-containing-character/; #771. Jewels and Stones (Easy, JavaScript) - https://leetcode.com/problems/jewels-and-stones/; #3541. Find Most Frequent Vowel and Consonant (Easy, JavaScript) - https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-20": {
         "values": {
@@ -351,8 +351,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#1221. Split a String in Balanced Strings (Easy, TypeScript) - https://leetcode.com/problems/split-a-string-in-balanced-strings/"
+        "note": "#1221. Split a String in Balanced Strings (Easy, TypeScript) - https://leetcode.com/problems/split-a-string-in-balanced-strings/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-28": {
         "values": {
@@ -362,8 +362,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#541. Reverse String II (Easy, JavaScript) - https://leetcode.com/problems/reverse-string-ii/; #125. Valid Palindrome (Easy, JavaScript) - https://leetcode.com/problems/valid-palindrome/"
+        "note": "#541. Reverse String II (Easy, JavaScript) - https://leetcode.com/problems/reverse-string-ii/; #125. Valid Palindrome (Easy, JavaScript) - https://leetcode.com/problems/valid-palindrome/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-04-29": {
         "values": {
@@ -373,8 +373,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#125. Valid Palindrome (Easy, JavaScript) [revisited] - https://leetcode.com/problems/valid-palindrome/"
+        "note": "#125. Valid Palindrome (Easy, JavaScript) [revisited] - https://leetcode.com/problems/valid-palindrome/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-05-07": {
         "values": {
@@ -384,8 +384,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#1903. Largest Odd Number in String (Easy, JavaScript) - https://leetcode.com/problems/largest-odd-number-in-string/"
+        "note": "#1903. Largest Odd Number in String (Easy, JavaScript) - https://leetcode.com/problems/largest-odd-number-in-string/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-05-09": {
         "values": {
@@ -395,8 +395,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#14. Longest Common Prefix (Easy, JavaScript) [1 wrong answer before accepted] - https://leetcode.com/problems/longest-common-prefix/"
+        "note": "#14. Longest Common Prefix (Easy, JavaScript) [1 wrong answer before accepted] - https://leetcode.com/problems/longest-common-prefix/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-05-10": {
         "values": {
@@ -406,8 +406,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#242. Valid Anagram (Easy, JavaScript) [1 wrong answer before accepted] - https://leetcode.com/problems/valid-anagram/; #205. Isomorphic Strings (Easy, JavaScript) - https://leetcode.com/problems/isomorphic-strings/; #49. Group Anagrams (Medium, JavaScript) - https://leetcode.com/problems/group-anagrams/"
+        "note": "#242. Valid Anagram (Easy, JavaScript) [1 wrong answer before accepted] - https://leetcode.com/problems/valid-anagram/; #205. Isomorphic Strings (Easy, JavaScript) - https://leetcode.com/problems/isomorphic-strings/; #49. Group Anagrams (Medium, JavaScript) - https://leetcode.com/problems/group-anagrams/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-05-11": {
         "values": {
@@ -417,8 +417,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#35. Search Insert Position (Easy, TypeScript) - https://leetcode.com/problems/search-insert-position/"
+        "note": "#35. Search Insert Position (Easy, TypeScript) - https://leetcode.com/problems/search-insert-position/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-05-12": {
         "values": {
@@ -428,8 +428,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#225. Implement Stack using Queues (Easy, JavaScript) - https://leetcode.com/problems/implement-stack-using-queues/"
+        "note": "#225. Implement Stack using Queues (Easy, JavaScript) - https://leetcode.com/problems/implement-stack-using-queues/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-05-14": {
         "values": {
@@ -439,8 +439,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#28. Find the Index of the First Occurrence in a String (Easy, TypeScript) - https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/; #232. Implement Queue using Stacks (Easy, JavaScript) - https://leetcode.com/problems/implement-queue-using-stacks/; #20. Valid Parentheses (Easy, JavaScript) [5 wrong answers before accepted] - https://leetcode.com/problems/valid-parentheses/"
+        "note": "#28. Find the Index of the First Occurrence in a String (Easy, TypeScript) - https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/; #232. Implement Queue using Stacks (Easy, JavaScript) - https://leetcode.com/problems/implement-queue-using-stacks/; #20. Valid Parentheses (Easy, JavaScript) [5 wrong answers before accepted] - https://leetcode.com/problems/valid-parentheses/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-05-15": {
         "values": {
@@ -450,8 +450,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#1221. Split a String in Balanced Strings (Easy, JavaScript) [revisited] - https://leetcode.com/problems/split-a-string-in-balanced-strings/; #13. Roman to Integer (Easy, TypeScript) [1 compile error before accepted] - https://leetcode.com/problems/roman-to-integer/; #125. Valid Palindrome (Easy, JavaScript) [revisited] - https://leetcode.com/problems/valid-palindrome/"
+        "note": "#1221. Split a String in Balanced Strings (Easy, JavaScript) [revisited] - https://leetcode.com/problems/split-a-string-in-balanced-strings/; #13. Roman to Integer (Easy, TypeScript) [1 compile error before accepted] - https://leetcode.com/problems/roman-to-integer/; #125. Valid Palindrome (Easy, JavaScript) [revisited] - https://leetcode.com/problems/valid-palindrome/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-05-16": {
         "values": {
@@ -461,8 +461,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#155. Min Stack (Medium, JavaScript) [1 wrong answer before accepted] - https://leetcode.com/problems/min-stack/"
+        "note": "#155. Min Stack (Medium, JavaScript) [1 wrong answer before accepted] - https://leetcode.com/problems/min-stack/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-05-17": {
         "values": {
@@ -472,8 +472,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#155. Min Stack (Medium, JavaScript) [revisited] - https://leetcode.com/problems/min-stack/; #13. Roman to Integer (Easy, JavaScript) [1 wrong answer before accepted; revisited] - https://leetcode.com/problems/roman-to-integer/; #1021. Remove Outermost Parentheses (Easy, JavaScript) - https://leetcode.com/problems/remove-outermost-parentheses/"
+        "note": "#155. Min Stack (Medium, JavaScript) [revisited] - https://leetcode.com/problems/min-stack/; #13. Roman to Integer (Easy, JavaScript) [1 wrong answer before accepted; revisited] - https://leetcode.com/problems/roman-to-integer/; #1021. Remove Outermost Parentheses (Easy, JavaScript) - https://leetcode.com/problems/remove-outermost-parentheses/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-05-19": {
         "values": {
@@ -483,8 +483,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#150. Evaluate Reverse Polish Notation (Medium, JavaScript) [1 runtime error, 1 wrong answer before accepted] - https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+        "note": "#150. Evaluate Reverse Polish Notation (Medium, JavaScript) [1 runtime error, 1 wrong answer before accepted] - https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-05-20": {
         "values": {
@@ -494,8 +494,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#121. Best Time to Buy and Sell Stock (Easy, JavaScript) [revisited] - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/; #496. Next Greater Element I (Easy, TypeScript) - https://leetcode.com/problems/next-greater-element-i/"
+        "note": "#121. Best Time to Buy and Sell Stock (Easy, JavaScript) [revisited] - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/; #496. Next Greater Element I (Easy, TypeScript) - https://leetcode.com/problems/next-greater-element-i/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-06-08": {
         "values": {
@@ -505,8 +505,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#739. Daily Temperatures (Medium, TypeScript) [1 wrong answer before accepted] - https://leetcode.com/problems/daily-temperatures/"
+        "note": "#739. Daily Temperatures (Medium, TypeScript) [1 wrong answer before accepted] - https://leetcode.com/problems/daily-temperatures/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-06-11": {
         "values": {
@@ -516,8 +516,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#503. Next Greater Element II (Medium, TypeScript) - https://leetcode.com/problems/next-greater-element-ii/"
+        "note": "#503. Next Greater Element II (Medium, TypeScript) - https://leetcode.com/problems/next-greater-element-ii/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-07-30": {
         "values": {
@@ -527,8 +527,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#994. Rotting Oranges (Medium, TypeScript) - https://leetcode.com/problems/rotting-oranges/"
+        "note": "#994. Rotting Oranges (Medium, TypeScript) - https://leetcode.com/problems/rotting-oranges/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-07-31": {
         "values": {
@@ -538,8 +538,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#994. Rotting Oranges (Medium, TypeScript) [revisited] - https://leetcode.com/problems/rotting-oranges/"
+        "note": "#994. Rotting Oranges (Medium, TypeScript) [revisited] - https://leetcode.com/problems/rotting-oranges/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-01": {
         "values": {
@@ -549,8 +549,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#69. Sqrt(x) (Easy, JavaScript) - https://leetcode.com/problems/sqrtx/"
+        "note": "#69. Sqrt(x) (Easy, JavaScript) - https://leetcode.com/problems/sqrtx/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-02": {
         "values": {
@@ -560,8 +560,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#374. Guess Number Higher or Lower (Easy, TypeScript) - https://leetcode.com/problems/guess-number-higher-or-lower/; #33. Search in Rotated Sorted Array (Medium, TypeScript) [1 wrong answer before accepted] - https://leetcode.com/problems/search-in-rotated-sorted-array/"
+        "note": "#374. Guess Number Higher or Lower (Easy, TypeScript) - https://leetcode.com/problems/guess-number-higher-or-lower/; #33. Search in Rotated Sorted Array (Medium, TypeScript) [1 wrong answer before accepted] - https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-03": {
         "values": {
@@ -571,8 +571,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#278. First Bad Version (Easy, TypeScript) - https://leetcode.com/problems/first-bad-version/"
+        "note": "#278. First Bad Version (Easy, TypeScript) - https://leetcode.com/problems/first-bad-version/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-05": {
         "values": {
@@ -582,8 +582,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#162. Find Peak Element (Medium, TypeScript) - https://leetcode.com/problems/find-peak-element/; #153. Find Minimum in Rotated Sorted Array (Medium, TypeScript) - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+        "note": "#162. Find Peak Element (Medium, TypeScript) - https://leetcode.com/problems/find-peak-element/; #153. Find Minimum in Rotated Sorted Array (Medium, TypeScript) - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-06": {
         "values": {
@@ -593,8 +593,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#34. Find First and Last Position of Element in Sorted Array (Medium, TypeScript) [attempted, not solved; 1 restrictions failed] - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
+        "note": "#34. Find First and Last Position of Element in Sorted Array (Medium, TypeScript) [attempted, not solved; 1 restrictions failed] - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-07": {
         "values": {
@@ -604,8 +604,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#34. Find First and Last Position of Element in Sorted Array (Medium, TypeScript) [3 wrong answers before accepted] - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/; #852. Peak Index in a Mountain Array (Medium, TypeScript) - https://leetcode.com/problems/peak-index-in-a-mountain-array/"
+        "note": "#34. Find First and Last Position of Element in Sorted Array (Medium, TypeScript) [3 wrong answers before accepted] - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/; #852. Peak Index in a Mountain Array (Medium, TypeScript) - https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-09": {
         "values": {
@@ -615,8 +615,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#540. Single Element in a Sorted Array (Medium, TypeScript) - https://leetcode.com/problems/single-element-in-a-sorted-array/; #658. Find K Closest Elements (Medium, JavaScript) - https://leetcode.com/problems/find-k-closest-elements/"
+        "note": "#540. Single Element in a Sorted Array (Medium, TypeScript) - https://leetcode.com/problems/single-element-in-a-sorted-array/; #658. Find K Closest Elements (Medium, JavaScript) - https://leetcode.com/problems/find-k-closest-elements/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-10": {
         "values": {
@@ -626,8 +626,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#1. Two Sum (Easy, JavaScript) [revisited] - https://leetcode.com/problems/two-sum/"
+        "note": "#1. Two Sum (Easy, JavaScript) [revisited] - https://leetcode.com/problems/two-sum/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-11": {
         "values": {
@@ -637,8 +637,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#1. Two Sum (Easy, JavaScript) [revisited] - https://leetcode.com/problems/two-sum/; #167. Two Sum II - Input Array Is Sorted (Medium, JavaScript) - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/; #392. Is Subsequence (Easy, JavaScript) - https://leetcode.com/problems/is-subsequence/; #28. Find the Index of the First Occurrence in a String (Easy, JavaScript) [1 wrong answer before accepted; revisited] - https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+        "note": "#1. Two Sum (Easy, JavaScript) [revisited] - https://leetcode.com/problems/two-sum/; #167. Two Sum II - Input Array Is Sorted (Medium, JavaScript) - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/; #392. Is Subsequence (Easy, JavaScript) - https://leetcode.com/problems/is-subsequence/; #28. Find the Index of the First Occurrence in a String (Easy, JavaScript) [1 wrong answer before accepted; revisited] - https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-12": {
         "values": {
@@ -648,8 +648,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#28. Find the Index of the First Occurrence in a String (Easy, JavaScript) [1 wrong answer before accepted; revisited] - https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+        "note": "#28. Find the Index of the First Occurrence in a String (Easy, JavaScript) [1 wrong answer before accepted; revisited] - https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-15": {
         "values": {
@@ -659,8 +659,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#160. Intersection of Two Linked Lists (Easy, JavaScript) [revisited] - https://leetcode.com/problems/intersection-of-two-linked-lists/"
+        "note": "#160. Intersection of Two Linked Lists (Easy, JavaScript) [revisited] - https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-16": {
         "values": {
@@ -670,8 +670,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#11. Container With Most Water (Medium, JavaScript) - https://leetcode.com/problems/container-with-most-water/"
+        "note": "#11. Container With Most Water (Medium, JavaScript) - https://leetcode.com/problems/container-with-most-water/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-19": {
         "values": {
@@ -681,8 +681,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#15. 3Sum (Medium, JavaScript) - https://leetcode.com/problems/3sum/"
+        "note": "#15. 3Sum (Medium, JavaScript) - https://leetcode.com/problems/3sum/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-21": {
         "values": {
@@ -692,8 +692,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#15. 3Sum (Medium, JavaScript) [revisited] - https://leetcode.com/problems/3sum/"
+        "note": "#15. 3Sum (Medium, JavaScript) [revisited] - https://leetcode.com/problems/3sum/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-22": {
         "values": {
@@ -703,8 +703,8 @@
           "hard": 1,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#42. Trapping Rain Water (Hard, JavaScript) - https://leetcode.com/problems/trapping-rain-water/; #3. Longest Substring Without Repeating Characters (Medium, JavaScript) [revisited] - https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+        "note": "#42. Trapping Rain Water (Hard, JavaScript) - https://leetcode.com/problems/trapping-rain-water/; #3. Longest Substring Without Repeating Characters (Medium, JavaScript) [revisited] - https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-24": {
         "values": {
@@ -714,8 +714,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#424. Longest Repeating Character Replacement (Medium, JavaScript) - https://leetcode.com/problems/longest-repeating-character-replacement/"
+        "note": "#424. Longest Repeating Character Replacement (Medium, JavaScript) - https://leetcode.com/problems/longest-repeating-character-replacement/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-25": {
         "values": {
@@ -725,8 +725,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#567. Permutation in String (Medium, JavaScript) - https://leetcode.com/problems/permutation-in-string/"
+        "note": "#567. Permutation in String (Medium, JavaScript) - https://leetcode.com/problems/permutation-in-string/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-26": {
         "values": {
@@ -736,8 +736,8 @@
           "hard": 1,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#239. Sliding Window Maximum (Hard, JavaScript) [1 time limit exceeded, 2 wrong answers before accepted] - https://leetcode.com/problems/sliding-window-maximum/"
+        "note": "#239. Sliding Window Maximum (Hard, JavaScript) [1 time limit exceeded, 2 wrong answers before accepted] - https://leetcode.com/problems/sliding-window-maximum/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-08-29": {
         "values": {
@@ -747,8 +747,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#144. Binary Tree Preorder Traversal (Easy, JavaScript) - https://leetcode.com/problems/binary-tree-preorder-traversal/; #94. Binary Tree Inorder Traversal (Easy, JavaScript) - https://leetcode.com/problems/binary-tree-inorder-traversal/; #145. Binary Tree Postorder Traversal (Easy, JavaScript) - https://leetcode.com/problems/binary-tree-postorder-traversal/"
+        "note": "#144. Binary Tree Preorder Traversal (Easy, JavaScript) - https://leetcode.com/problems/binary-tree-preorder-traversal/; #94. Binary Tree Inorder Traversal (Easy, JavaScript) - https://leetcode.com/problems/binary-tree-inorder-traversal/; #145. Binary Tree Postorder Traversal (Easy, JavaScript) - https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-02": {
         "values": {
@@ -758,8 +758,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#94. Binary Tree Inorder Traversal (Easy, JavaScript) [revisited] - https://leetcode.com/problems/binary-tree-inorder-traversal/"
+        "note": "#94. Binary Tree Inorder Traversal (Easy, JavaScript) [revisited] - https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-04": {
         "values": {
@@ -769,8 +769,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#145. Binary Tree Postorder Traversal (Easy, JavaScript) [revisited] - https://leetcode.com/problems/binary-tree-postorder-traversal/"
+        "note": "#145. Binary Tree Postorder Traversal (Easy, JavaScript) [revisited] - https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-05": {
         "values": {
@@ -780,8 +780,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#145. Binary Tree Postorder Traversal (Easy, JavaScript) [revisited] - https://leetcode.com/problems/binary-tree-postorder-traversal/; #102. Binary Tree Level Order Traversal (Medium, JavaScript) - https://leetcode.com/problems/binary-tree-level-order-traversal/"
+        "note": "#145. Binary Tree Postorder Traversal (Easy, JavaScript) [revisited] - https://leetcode.com/problems/binary-tree-postorder-traversal/; #102. Binary Tree Level Order Traversal (Medium, JavaScript) - https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-06": {
         "values": {
@@ -791,8 +791,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#104. Maximum Depth of Binary Tree (Easy, JavaScript) - https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+        "note": "#104. Maximum Depth of Binary Tree (Easy, JavaScript) - https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-07": {
         "values": {
@@ -802,8 +802,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#112. Path Sum (Easy, JavaScript) - https://leetcode.com/problems/path-sum/; #101. Symmetric Tree (Easy, TypeScript) - https://leetcode.com/problems/symmetric-tree/"
+        "note": "#112. Path Sum (Easy, JavaScript) - https://leetcode.com/problems/path-sum/; #101. Symmetric Tree (Easy, TypeScript) - https://leetcode.com/problems/symmetric-tree/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-08": {
         "values": {
@@ -813,8 +813,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#100. Same Tree (Easy, TypeScript) - https://leetcode.com/problems/same-tree/"
+        "note": "#100. Same Tree (Easy, TypeScript) - https://leetcode.com/problems/same-tree/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-10": {
         "values": {
@@ -824,8 +824,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#226. Invert Binary Tree (Easy, JavaScript) - https://leetcode.com/problems/invert-binary-tree/; #100. Same Tree (Easy, TypeScript) [revisited] - https://leetcode.com/problems/same-tree/"
+        "note": "#226. Invert Binary Tree (Easy, JavaScript) - https://leetcode.com/problems/invert-binary-tree/; #100. Same Tree (Easy, TypeScript) [revisited] - https://leetcode.com/problems/same-tree/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-11": {
         "values": {
@@ -835,8 +835,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#110. Balanced Binary Tree (Easy, JavaScript) - https://leetcode.com/problems/balanced-binary-tree/"
+        "note": "#110. Balanced Binary Tree (Easy, JavaScript) - https://leetcode.com/problems/balanced-binary-tree/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-12": {
         "values": {
@@ -846,8 +846,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#543. Diameter of Binary Tree (Easy, JavaScript) - https://leetcode.com/problems/diameter-of-binary-tree/; #103. Binary Tree Zigzag Level Order Traversal (Medium, JavaScript) [1 wrong answer before accepted] - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/"
+        "note": "#543. Diameter of Binary Tree (Easy, JavaScript) - https://leetcode.com/problems/diameter-of-binary-tree/; #103. Binary Tree Zigzag Level Order Traversal (Medium, JavaScript) [1 wrong answer before accepted] - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-14": {
         "values": {
@@ -857,8 +857,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#572. Subtree of Another Tree (Easy, JavaScript) - https://leetcode.com/problems/subtree-of-another-tree/"
+        "note": "#572. Subtree of Another Tree (Easy, JavaScript) - https://leetcode.com/problems/subtree-of-another-tree/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-15": {
         "values": {
@@ -868,8 +868,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#236. Lowest Common Ancestor of a Binary Tree (Medium, JavaScript) - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+        "note": "#236. Lowest Common Ancestor of a Binary Tree (Medium, JavaScript) - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-17": {
         "values": {
@@ -879,8 +879,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#199. Binary Tree Right Side View (Medium, JavaScript) - https://leetcode.com/problems/binary-tree-right-side-view/; #1448. Count Good Nodes in Binary Tree (Medium, JavaScript) - https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
+        "note": "#199. Binary Tree Right Side View (Medium, JavaScript) - https://leetcode.com/problems/binary-tree-right-side-view/; #1448. Count Good Nodes in Binary Tree (Medium, JavaScript) - https://leetcode.com/problems/count-good-nodes-in-binary-tree/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-18": {
         "values": {
@@ -890,8 +890,8 @@
           "hard": 0,
           "studyHours": 0
         },
-        "updatedAt": "2026-09-20T07:00:00.000Z",
-        "note": "#116. Populating Next Right Pointers in Each Node (Medium, JavaScript) - https://leetcode.com/problems/populating-next-right-pointers-in-each-node/"
+        "note": "#116. Populating Next Right Pointers in Each Node (Medium, JavaScript) - https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+        "updatedAt": "2026-09-20T07:00:00.000Z"
       },
       "2026-09-19": {
         "values": {
@@ -901,8 +901,19 @@
           "hard": 1,
           "studyHours": 1
         },
-        "updatedAt": "2026-09-19T18:13:48.932Z",
-        "note": "124. Binary Tree Maximum Path Sum"
+        "note": "124. Binary Tree Maximum Path Sum",
+        "updatedAt": "2026-09-19T18:13:48.932Z"
+      },
+      "2026-09-20": {
+        "values": {
+          "problemsSolved": 0,
+          "easy": 0,
+          "medium": 0,
+          "hard": 0,
+          "studyHours": 1
+        },
+        "updatedAt": "2026-09-20T18:30:30.031Z",
+        "note": "Binary Search Tree introduction"
       }
     }
   }
